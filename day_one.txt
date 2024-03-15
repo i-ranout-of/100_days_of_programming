@@ -1,0 +1,8 @@
+install scrapy - pip install Scrapy
+
+install virtual env - pip install virtualenv
+
+create a virtual env  - virtualenv .
+
+activate virtual env :  .\Scripts\activate
+
